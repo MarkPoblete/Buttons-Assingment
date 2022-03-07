@@ -1,0 +1,17 @@
+/*Your CSS code goes below this line*/
+button{ color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  margin: 4px 2px;
+  text-align: center;
+}
+.one {background-color: green;
+border-radius: 8px;
+border:2px solid green;}
+.two {background-color: rgb(255, 238, 0);
+  border-radius: 8px;
+  border:2px solid yellow;}
+.three {background-color: purple;
+  border-radius: 8px;
+  border:2px solid purple;}
+  
